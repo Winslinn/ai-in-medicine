@@ -65,16 +65,12 @@ h1{
 .main-window-information-div-class-pov{
     position: absolute;
     top: 80px;
-    height: 35%;
+    height: auto;
     display: flex;
 }
 
 .content{
-    float: left;
+    float: right;
     margin-right: 20px;
     margin-left: 10px;
-}
-
-.discord-rus-govoryt-rysni-pisda{
-    min-height: 350px;
 }
